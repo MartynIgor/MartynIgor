@@ -15,7 +15,7 @@ I'm **Ihor**, a passionate Full Stack Developer from **France [Ukraine]**.
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MartynIgor&show_icons=true&theme=default&count_private=true)
 
 ## 📝 Recent Blog Posts
 
@@ -25,10 +25,8 @@ I'm **Ihor**, a passionate Full Stack Developer from **France [Ukraine]**.
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=fff&style=flat)](https://linkedin.com/in/YourLinkedInUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/YourTwitterUsername)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=fff&style=flat)](https://instagram.com/YourInstagramUsername)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff&style=flat)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=fff&style=flat)]([https://linkedin.com/in/YourLinkedInUsername](https://www.linkedin.com/in/ihor-martyn-1a6615100/))
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=fff&style=flat)]([https://twitter.com/YourTwitterUsername](https://x.com/martyn_igor))
 
 ## 💼 Project Portfolio
 
