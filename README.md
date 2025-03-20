@@ -52,32 +52,31 @@
 ## 🌟 Languages and Tools:
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <picture>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  </picture>
+  <picture>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  </picture>
+  <picture>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  </picture>
+  <picture>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  </picture>
+  <picture>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  </picture>
+  <picture>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
+  </picture>
+  <picture>
     <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" width="40" height="40"/>
-  </a>
-  <a href="https://zennolab.com/en/products/zennoposter/" target="_blank" rel="noreferrer">
+  </picture>
+  <picture>
     <img src="https://www.formation-zennoposter.com/wp-content/uploads/2021/01/maitriser-zennoposter.png" alt="Zennoposter" width="80" height="40"/>
-  </a>
+  </picture>
 </p>
-
 ---
 
 ## 🤝 **Let's Connect!**
