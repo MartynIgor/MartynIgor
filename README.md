@@ -74,8 +74,8 @@
   <a href="https://wordpress.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" width="50" height="50"/>
   </a>
-  <a href="https://www.formation-zennoposter.com/" target="_blank">
-    <img src="https://www.formation-zennoposter.com/wp-content/uploads/2021/01/maitriser-zennoposter.png" alt="Zennoposter" width="80" height="50"/>
+  <a href="https://zennolab.com/en/products/zennoposter/" target="_blank">
+    <img src="https://www.formation-zennoposter.com/wp-content/uploads/2021/01/maitriser-zennoposter.png" alt="Zennoposter" width="50" height="50"/>
   </a>
 </p>
 
