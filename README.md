@@ -79,18 +79,31 @@
 </p>
 ---
 
-## 🤝 **Let's Connect!**
-<p align="center">
-  <a href="https://www.linkedin.com/in/ihor-martyn-1a6615100/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/martyn_igor" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat" alt="Twitter"/>
-  </a>
-  <a href="mailto:martynigor1987@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff&style=flat" alt="Email"/>
-  </a>
+## 🤝 Let's Connect!
+
+<p align="left">
+  <picture>
+    <a href="https://www.linkedin.com/in/ihor-martyn-1a6615100/" target="_blank">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    </a>
+  </picture>
+  <picture>
+    <a href="https://x.com/martyn_igor" target="_blank">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" width="40" height="40"/>
+    </a>
+  </picture>
+  <picture>
+    <a href="mailto:martynigor1987@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
+    </a>
+  </picture>
+  <picture>
+    <a href="https://github.com/MartynIgor" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
+    </a>
+  </picture>
 </p>
+
 
 ---
 
