@@ -50,9 +50,39 @@
 
 ---
 
-## 📫 Let's Connect!
+## 🌟 Languages and Tools:
 
-<p align="left">
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
+  </a>
+  <a href="https://wordpress.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" width="50" height="50"/>
+  </a>
+  <a href="https://www.formation-zennoposter.com/" target="_blank">
+    <img src="https://www.formation-zennoposter.com/wp-content/uploads/2021/01/maitriser-zennoposter.png" alt="Zennoposter" width="80" height="50"/>
+  </a>
+</p>
+
+---
+
+## 🤝 **Let's Connect!**
+<p align="center">
   <a href="https://www.linkedin.com/in/ihor-martyn-1a6615100/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn"/>
   </a>
